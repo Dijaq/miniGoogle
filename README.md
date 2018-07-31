@@ -1,0 +1,2 @@
+# miniGoogle
+Buscador de artículos.
